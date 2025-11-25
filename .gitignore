@@ -1,0 +1,20 @@
+# Dependências do Módulo Node
+/node_modules
+
+# Logs npm
+npm-debug.log
+.npm/
+.node_repl_history
+
+# Build artifacts
+/build
+
+# Informações de ambiente (credenciais, chaves, etc.)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Outros
+.DS_Store
